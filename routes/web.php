@@ -18,5 +18,5 @@ Route::get('/', function () {
 });
 Route::get('/test',function(){
 
-    return "Deployment Test";
+    return "EC2 Push";
 });
