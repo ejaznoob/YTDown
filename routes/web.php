@@ -18,5 +18,5 @@ Route::get('/', function () {
 });
 Route::get('/test',function(){
 
-    return "EC2 Push";
+    return "EC2 22";
 });
